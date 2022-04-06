@@ -7,6 +7,7 @@ function countdown(x)
     end
 end
 #positional arguments, optional arguments that we can specify if we want to, otherwise set to default value
+#positional arguments allow for high optimization of programs
 function myWeight(weightOnEarth, g=9.81)
     return weightOnEarth*g/9.81
 end
