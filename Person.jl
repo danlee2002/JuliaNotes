@@ -1,5 +1,5 @@
 abstract type Person
 end 
 
-abstract type Musican <: Person 
-end 
+abstract type Musician <: Person 
+end  
