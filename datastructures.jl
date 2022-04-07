@@ -50,3 +50,4 @@ namedTuple1[:b] #Will return b
 test = Dict("a"=> 1, "b" => 2)
 #Returns value associated with key
 test["a"]
+
