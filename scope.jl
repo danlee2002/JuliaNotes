@@ -7,5 +7,5 @@ end
 a = let 
     i = 1
 end
-
 #Global variables can be problematic because they cannot be optimized by compiler since values can be volatile
+    
